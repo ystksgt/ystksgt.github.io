@@ -1,1 +1,4 @@
-p {width:640px}
+p {
+  width:640px;
+  text-align: justify;
+}
